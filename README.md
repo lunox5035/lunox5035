@@ -1,7 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunox5035)](https://github.com/lunox5035/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunox5035)](https://github.com/lunox5035/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunox5035)](https://solved.ac/lunox5035/)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunox5035)]
+  <img src="http://mazandi.herokuapp.com/api?handle={lunox5035}&theme=warm"/>
 
 \\<!--
 ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
