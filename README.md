@@ -1,12 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=lunox's%20Git&fontSize=24&fontColor=FFF)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=lunox's%20Git&fontSize=90&fontColor=FFF&animation=twinkling)
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunox5035)](https://solved.ac/lunox5035)
-[![lunox5035's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lunox5035&layout=compact&include_all_commits=true)](https://github.com/lunox5035)
 
-![lunox5035's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunox5035&&show_icons=true&theme=tokyonight&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=lunox5035&show_icons=true">
 
-  <img src="http://mazandi.herokuapp.com/api?handle={lunox5035}&theme=warm"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunox5035&layout=compact"><br><br>
+<img src="http://mazandi.herokuapp.com/api?handle={lunox5035}&theme=warm"/>
 
 ✏️studying 📝   
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -25,3 +28,4 @@ library
 ![Node.js](https://img.shields.io/badge/Node.js-44A833.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</
