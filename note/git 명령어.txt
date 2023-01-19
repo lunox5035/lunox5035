@@ -4,7 +4,9 @@ git push origin lunox
 git pull origin main
 git branch	
 git checkout  
-git status
+git status 
+git remote add origin https://github.com
+
 
 ssum 수민
 sun 태헌
