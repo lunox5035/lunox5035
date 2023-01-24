@@ -1,3 +1,13 @@
+Spring Web 
+Thymeleaf
+Spring Boot DevTools 
+MariaDB Driver
+
+만약 빌드할때 안만들었다면
+구글에 mysql jdbc driver maven검색하고 다운시 Gradle탭 선택하여 복붙
+
+#-----------------------------------------------------------------------------------------------
+
 
 # Server
 server.port=8000
